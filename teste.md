@@ -13,9 +13,9 @@ O **Report aggregate**, como chamaremos de agora em diante, é uma alternativa a
 As partes básicas envolvidas a serem abordatas inicialmente e brevemente neste tutorial, para se executar uma *aggregate query*, são:
 
 - [Schema](#schema)
-- [Filtro](#Filtro)
-- [Dicionário](#Dicionário)
-- [Aggregate](#Aggregate)
+- [Filtro](#diltro)
+- [Dicionário](#dicionário)
+- [Aggregate](#aggregate)
 
 E após esta abordagem, veremos como:
 
